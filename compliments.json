@@ -1,30 +1,30 @@
 {
-  anytime: [
+	"anytime": [
 		"Hey there sexy!",
 		"They're eating the dogs!",
 		"You are a FEMININOMENON!",
-	  "You are a strong, independent acid snake in the skinsuit of a strong, indepenent woman!",
+		"You are a strong, independent acid snake in the skinsuit of a strong, indepenent woman!",
 		"Your body is a forest, you will regrown no matter how devastated."
-  ],
-  morning: [
-	  "Onwards! Upwards! With reckless optimism!",
+	],
+	"morning": [
+		"Onwards! Upwards! With reckless optimism!",
 		"Good morning, beautiful!",
 		"Enjoy your day!",
 		"Time to get to work!",
 		"You are a rainbow-infused space unicorn!"
 	],
-	afternoon: [
+	"afternoon": [
 		"You are a legit snack!",
 		"Hello, beauty!",
 		"You are loved!",
 		"You are inspiring!",
 		"Your visage terrifies men!"
 	],
-	evening: [
+	"evening": [
 		"You're a powerful dumptruck!",
 		"You are strong!",
 		"Hi, sexy!",
 		"Embrace imposter syndrome, you are a Trickster Goddess!",
 		"Let your spite fuel you, prove your enemies wrong!"
-  ],
+	]
 }
